@@ -34,7 +34,7 @@
   <a href = "mailto:kalliandralima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="httpshttps://www.linkedin.com/in/kalliandra-carla-de-lima-b68678127" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Kally0897/Kally0897/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/kally0897/kally0897/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
