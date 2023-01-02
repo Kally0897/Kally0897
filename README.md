@@ -1,7 +1,9 @@
 ### Oie, pode me chamar de Kally 👋
 
 - 🔭 Profissional em transição de carreira com foco em Desenvolvimento Backend - Java e JavaScript
-- 🌱 Estudando JAVA
+- Conhecimentos sólidos em JS, NodeJS, MongoDB e IDE VSCODE.
+- 🌱 Estudando JAVA (Back-end)
+- 🌱 Estudando JS com HTML/CSS (Front-end)
 - 😄 Pronomes: Ela/Dela
 
 
