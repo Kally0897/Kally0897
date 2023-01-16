@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B22222&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Kalliandra+Lima;Tenho+25+anos;Estudante+de+Analise+e+Desenvolvimento+de+Sistemas;Seja+bem-vindo+ao+meu+Github!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kally0897&show_icons=true&count_private=true&hide_border=true&title_color=B22222&icon_color=B22222&text_color=c9d1d9&bg_color=0d1117" alt="Kalliandra Lima github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kally0897&layout=compact&hide_border=true&title_color=B22222&text_color=B22222&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kally0897&show_icons=true&count_private=true&hide_border=true&title_color=B22222&icon_color=B22222&text_color=c9d1d9&bg_color=0d1117" alt="Kalliandra Lima github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kally0897&layout=compact&hide_border=true&title_color=B22222&text_color=B22222&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kally0897&bg_color=0d1117&color=A52A2A&line=B22222&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kally0897&bg_color=0d1117&color=A52A2A&line=B22222&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kally0897&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
